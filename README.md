@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ShahArbaz
-- 👀 I’m Special in Front end and backend technology
-- 🌱 I’m currently learning  react / react native,
+- 👀 I’m Special in Front end and backend and cloud technology
+- 🌱 I’m currently learning  aws cloud and devops,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
